@@ -1,2 +1,2 @@
-# beer_analysis_quiz
+# beer_analysis
 ratings and recommendations based on statistical analysis, visualizations and ml models
